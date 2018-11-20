@@ -1,0 +1,14 @@
+{
+    "name":"Max",
+    "value":100,
+    "children":[
+    {"name":"Max","value":100},
+    {"name":"Krishna","value":125},
+    {"name":"jay","value":50},
+    {"name":"anji","value":78},
+    {"name":"bhuwan","value":124},
+    {"name":"ankur","value":210},
+    {"name":"Max1","value":140},
+    {"name":"atul","value":90}
+    ]
+}

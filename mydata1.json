@@ -1,0 +1,32 @@
+{
+   "name":"Java",
+   "children": [
+    
+    {
+        "name":"Oops",
+        "children": [
+            {"name": "Polymorphism"},
+            {"name":"Abstraction"},
+            {"name":"Encapsulation"},
+            {"name":"Inherits"}
+        ]
+    },
+    {
+       "name":"AdvancedJava",
+       "children":[
+           {"name":"Servlet","size": 3534},
+           {"name":"Jsp","size": 3535},
+           {"name":"Jdbc","size": 3536},
+           {"name":"Hibernet","size": 3537},
+           {"name":"Spring","size": 3538}
+        ]
+    },
+    {
+        "name":"Exception"
+    }
+
+
+   ]
+
+   
+}

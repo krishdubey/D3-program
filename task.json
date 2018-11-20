@@ -1,0 +1,21 @@
+{
+    "name":"main node",
+    "children":[
+      {
+          "name": "child1",
+          "children": [
+              {"name":"sc1"},
+              {"name":"sc2"}
+          ]
+      },
+      {
+          "name": "child2",
+           "children": [
+               {"name":"sc3"},
+               {"name":"sc4"}
+           ]
+      }
+
+
+    ]
+}
